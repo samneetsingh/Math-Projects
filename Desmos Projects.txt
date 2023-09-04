@@ -1,0 +1,24 @@
+DESMOS PROJECT LINKS:
+
+Polygon:
+https://www.desmos.com/calculator/mkbwdqmfea
+
+Polar Lists:
+https://www.desmos.com/calculator/dmyrbcqzvu
+
+Flower:
+https://www.desmos.com/calculator/r4u7eelplg
+
+Lamé Curve:
+https://www.desmos.com/calculator/wmu5utaopg
+
+Spiral Project:
+https://www.desmos.com/calculator/kzjzvvknjd
+
+CSS343 Program 4 Regressions:
+https://www.desmos.com/calculator/vtwsqica0d
+
+Some Desmos tutorials I made for classmates:
+https://www.desmos.com/calculator/cctxcpggeh
+https://www.desmos.com/calculator/nxdox1v8fv
+https://www.desmos.com/calculator/jexmgud3sj
